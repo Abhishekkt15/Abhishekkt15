@@ -1,7 +1,7 @@
  <img src= "https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width = "300">
  
 ### Hi there 👋
-I'm Abhishek K T Machine Learning Enthusiast || and always willing to learn and work across new technologies and domains. <br/> <br/>
+I'm Abhishek K T Machine Learning Enthusiast always willing to learn and work across new technologies and domains. <br/> <br/>
 
 [![dev.to badge](https://img.shields.io/badge/linkedin-abhishek_gowda-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhishek-gowda-6862b3169/)
 [![glitch badge](https://img.shields.io/badge/facebook-abhishek_gowda-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/abhigowda.abhi.94)
