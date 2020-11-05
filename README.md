@@ -20,7 +20,7 @@ I open-source almost everything you can use this service for free.
 
 However, if you are using my project and happy with it or just want to encourage me to continue creating stuff, there are few ways you can do it :-
 
-Giving proper credit when you use any of my Repo, linking back to it
+Giving proper credit when you use any of my Repo, linking back to it,
 Starring and sharing the project 🚀
 
 Thanks! ❤️
